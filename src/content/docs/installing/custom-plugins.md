@@ -3,17 +3,6 @@ title: Installing custom plugins
 description: How to install custom plugins in Vencord
 ---
 
-:::danger
-
-These instructions are provided for **advanced users**.
-
-If you don't understand these instructions, you should not attempt to install custom plugins.
-
-We do not provide support with custom plugins / installs, and you are responsible for any issues that may arise from using them.
-
-If you run into issues and can't figure them out yourself, please stick to the [official Vencord build](https://vencord.dev/download).
-:::
-
 ## Prerequisite
 
 To add custom plugins, you need to build Vencord from source.
